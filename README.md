@@ -22,8 +22,9 @@ In order to run this properly, You must follow these steps:
   - Shows some interesting feature analyses.
 5. Run Feature_Importances.ipynb
   - Allows a walkthrough of features that are important as well as the regressions (from lasso to forest regressions)
-6. Optional: Run Linear Model AIC
+6. Optional: AIC and Multiple Linear Regression Assumptions.R
   - Shows Coefficient of Determination (R^2) when following the AIC.
+  - Shows Assumptions of Multiple Linear Regression are met.
 
 NOTE:
 Read data_description.txt to understand the house features more.
