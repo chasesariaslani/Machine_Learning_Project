@@ -27,3 +27,6 @@ In order to run this properly, You must follow these steps:
 
 NOTE:
 Read data_description.txt to understand the house features more.
+
+CREATORS:
+Marc Medawar and Chase Sariaslani
