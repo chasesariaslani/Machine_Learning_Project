@@ -87,7 +87,7 @@ for neighborhood in house_features['Neighborhood']:
     elif neighborhood in center:
         neighborhood_column.append('Center')
 
-neighborhood_df = pd.DataFrame({'Neighborhood': neighborhood_column})
+house_features['Neighborhood'] = neighborhood_column
 
 
 ## MasVnrArea and GarageYrBlt modification ##
